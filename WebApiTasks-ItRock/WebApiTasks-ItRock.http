@@ -1,0 +1,6 @@
+@WebApiTasks_ItRock_HostAddress = http://localhost:5091
+
+GET {{WebApiTasks_ItRock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
